@@ -53,5 +53,8 @@ Please see the Excel file titled **_2012 Workplace Fatalities by State Analysis 
 
 
 
+![](Images/1.jpg) 
 
+![](Images/2.jpg) 
 
+![](Images/3.jpg) 
